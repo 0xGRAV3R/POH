@@ -16,3 +16,11 @@ Every event has a unique hash and count along this data structure as a function 
 
 This information tells us what event had to come before another almost like a cryptographic timestamp giving us a verfiable ordering of events as a function of time. 
 
+<img width="1512" alt="Screenshot 2024-06-03 at 11 44 35 AM" src="https://github.com/0xGRAV3R/POH/assets/112988281/457964b1-105e-4de1-b475-c17758daac98">
+
+Each node gets a cryptographic clock that helps the network agree on time and ordering of events without having to wait to hear from other nodes. 
+
+<img width="1512" alt="Screenshot 2024-06-03 at 11 47 44 AM" src="https://github.com/0xGRAV3R/POH/assets/112988281/50bc96da-7bf9-41ca-9bce-ab605b6e0a48">
+Unlike slower, traditional blockchains often times throttled by various consensus mechanisms, Solana achieves high-throughput without sacrificing network security. 
+
+
