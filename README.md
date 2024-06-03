@@ -12,5 +12,7 @@ Proof of history uses a verifiable delay function to hash incoming events and tr
 
 Every event has a unique hash and count along this data structure as a function of real-time.
 
+<img width="1512" alt="Screenshot 2024-06-03 at 11 41 54 AM" src="https://github.com/0xGRAV3R/POH/assets/112988281/e99be71c-a887-46a2-9ed9-fa184dd0bc96">
 
-This event 
+This information tells us what event had to come before another almost like a cryptographic timestamp giving us a verfiable ordering of events as a function of time. 
+
