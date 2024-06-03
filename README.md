@@ -1,0 +1,1 @@
+Proof of history enables the blockchain to work fast while maintaining security and decentralization. 
